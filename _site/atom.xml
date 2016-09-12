@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Katlego D. Moloto</title>
+ <link href="https://katlegodaniel.github.io/atom.xml" rel="self"/>
+ <link href="https://katlegodaniel.github.io/"/>
+ <updated>2016-09-12T22:27:12+02:00</updated>
+ <id>https://katlegodaniel.github.io</id>
+ <author>
+   <name>Katlego Daniel Moloto</name>
+   <email>katlego.daniel@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Up and running!</title>
+   <link href="https://katlegodaniel.github.io/2016/09/10/up-and-running/"/>
+   <updated>2016-09-10T00:00:00+02:00</updated>
+   <id>https://katlegodaniel.github.io/2016/09/10/up-and-running</id>
+   <content type="html">&lt;p&gt;The site is up and running the only thing left is to start writing the actual content. A lot of work will have to be done to make sure that all is good. The First post will look into getting openmpi running with the least effort.&lt;/p&gt;
+
+&lt;p&gt;From there we will have a few posts on setting up Latex thesis file for my PhD.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
